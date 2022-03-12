@@ -3,13 +3,14 @@
 
 <br>
 
-## Links for Datasets
+## Nbviewer links
+(Open this links if github print "The notebook took too long to render.")
 
-* [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic/)
+* Titanic - Machine Learning from Disaster
 
   > Predict survival on the Titanic and get familiar with ML Basics.
 
-* [Statoil/C-Core Iceberg Classifier Challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)
+* [Statoil/C-Core Iceberg Classifier Challenge](https://nbviewer.org/gist/heosuab/9e10fbe16669b8ac8134c254bc53f992)
 
   > Ship or Iceberg, can you decide from space?
 
