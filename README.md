@@ -5,7 +5,8 @@
 
 ### 👇 Nbviewer links
 (Open this links if github print "The notebook took too long to render.")
------
+
+<br>
 
 * Titanic - Machine Learning from Disaster
 
