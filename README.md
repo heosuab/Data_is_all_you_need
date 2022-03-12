@@ -1,5 +1,6 @@
-# Data_is_all_you_need
+# Data_is_all_you_need 
 💡 **Ideas** and **practices** to handle data well
+<br> (~2022-03-12 arranging records... )
 
 <br>
 
