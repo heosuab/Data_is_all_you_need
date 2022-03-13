@@ -17,6 +17,6 @@
 
   > Ship or Iceberg, can you decide from space?
 
-* 마스크 착용 상태 분류 (~~Private data~~)
+* 마스크 착용 상태 분류
 
   > Determining whether a person is wearing a mask or not.
